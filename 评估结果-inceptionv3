@@ -1,0 +1,127 @@
+4299: /m/07c1v - technology (score = 0.33)
+1978: /m/02mf1n - gadget (score = 0.19)
+4864: /m/0bs7_0t - electronic device (score = 0.11)
+781: /m/01jwgf - product (score = 0.11)
+1990: /m/02mrp - electronics (score = 0.10)
+3626: /m/0541p - multimedia (score = 0.10)
+3570: /m/050k8 - mobile phone (score = 0.05)
+5789: /m/0k65p - hand (score = 0.05)
+5558: /m/0h8ls87 - automotive exterior (score = 0.05)
+530: /m/01cd9 - brand (score = 0.04)
+
+2293: /m/02wbm - food (score = 0.95)
+2104: /m/02q08p0 - dish (score = 0.67)
+2558: /m/036qh8 - produce (score = 0.64)
+1597: /m/0270h - dessert (score = 0.48)
+1256: /m/01ykh - cuisine (score = 0.39)
+5819: /m/0krfg - meal (score = 0.34)
+5686: /m/0hz4q - breakfast (score = 0.30)
+3606: /m/052lwg6 - baked goods (score = 0.12)
+5216: /m/0dv34 - baking (score = 0.11)
+2354: /m/02xwb - fruit (score = 0.09)
+things/package.jpg
+------------------
+[0.00020841 0.00023019 0.00033793 ... 0.00056862 0.00019511 0.00023251]
+================
+[5736 1783 2180 5683 4463 4067 4945  530  781 4723]
+------------------
+5736: /m/0jjw - art (score = 0.58)
+1783: /m/02cwm - design (score = 0.40)
+2180: /m/02rfdq - interior design (score = 0.08)
+5683: /m/0hwky - pattern (score = 0.08)
+4463: /m/083vt - wood (score = 0.07)
+4067: /m/06ht1 - room (score = 0.07)
+4945: /m/0c_jw - furniture (score = 0.06)
+530: /m/01cd9 - brand (score = 0.06)
+781: /m/01jwgf - product (score = 0.05)
+4723: /m/09qqq - wall (score = 0.05)
+
+things/package2.jpg
+W0813 10:23:55.553319  9420 deprecation_wrapper.py:119] From tools/classify.py:91: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
+
+------------------
+[0.00023317 0.00025895 0.00093198 ... 0.00063529 0.0002071  0.00025178]
+================
+[2293 5736 1597 2558 5819  102 4496 2104 1077  833]
+------------------
+2293: /m/02wbm - food (score = 0.29)
+5736: /m/0jjw - art (score = 0.18)
+1597: /m/0270h - dessert (score = 0.06)
+2558: /m/036qh8 - produce (score = 0.05)
+5819: /m/0krfg - meal (score = 0.04)
+102: /m/0138tl - toy (score = 0.04)
+4496: /m/088fh - yellow (score = 0.03)
+2104: /m/02q08p0 - dish (score = 0.03)
+1077: /m/01sdr - color (score = 0.02)
+833: /m/01l0y0 - material (score = 0.02)
+things/paper.jpg
+------------------
+[0.00041053 0.00048569 0.00131178 ... 0.00077047 0.00039792 0.00049784]
+================
+[1599 2293   64  398 1597  781  245 3485 2269 4981]
+------------------
+1599: /m/0271t - drink (score = 0.43)
+2293: /m/02wbm - food (score = 0.27)
+64: /m/012mj - alcoholic beverage (score = 0.18)
+398: /m/019sc6 - lighting (score = 0.18)
+1597: /m/0270h - dessert (score = 0.14)
+781: /m/01jwgf - product (score = 0.12)
+245: /m/016nqd - shape (score = 0.09)
+3485: /m/04shl0 - distilled beverage (score = 0.07)
+2269: /m/02w08 - flavor (score = 0.07)
+4981: /m/0ch75fj - man made object (score = 0.07)
+
+things/battery.jpg
+W0813 10:34:07.430287 21460 deprecation_wrapper.py:119] From tools/classify.py:91: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
+
+------------------
+[0.00025192 0.00025645 0.00076342 ... 0.00029151 0.00021938 0.00027351]
+================
+[4042 1077 4496   25  530  781 4299  102 4830 1978]
+------------------
+4042: /m/06fvc - red (score = 0.35)
+1077: /m/01sdr - color (score = 0.28)
+4496: /m/088fh - yellow (score = 0.12)
+25: /m/011s0 - advertising (score = 0.11)
+530: /m/01cd9 - brand (score = 0.10)
+781: /m/01jwgf - product (score = 0.09)
+4299: /m/07c1v - technology (score = 0.07)
+102: /m/0138tl - toy (score = 0.07)
+4830: /m/0bkqqh - signage (score = 0.07)
+1978: /m/02mf1n - gadget (score = 0.06)
+things/battery2.jpg
+------------------
+[0.00026581 0.00027117 0.00072345 ... 0.00037782 0.00023162 0.00028974]
+================
+[ 781 4042 4496  530 1077  102 4299   25 1978 2293]
+------------------
+781: /m/01jwgf - product (score = 0.19)
+4042: /m/06fvc - red (score = 0.12)
+4496: /m/088fh - yellow (score = 0.10)
+530: /m/01cd9 - brand (score = 0.09)
+1077: /m/01sdr - color (score = 0.07)
+102: /m/0138tl - toy (score = 0.05)
+4299: /m/07c1v - technology (score = 0.05)
+25: /m/011s0 - advertising (score = 0.04)
+1978: /m/02mf1n - gadget (score = 0.04)
+2293: /m/02wbm - food (score = 0.03)
+
+things/shoes.jpg
+W0813 10:47:08.316257 11116 deprecation_wrapper.py:119] From tools/classify.py:91: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
+
+------------------
+[0.00045225 0.00039929 0.0018416  ... 0.00413406 0.00036556 0.0004544 ]
+================
+[4496 4686 2673 2538 4042 4685 4138 5789 4714 2584]
+------------------
+4496: /m/088fh - yellow (score = 0.78)
+4686: /m/09j5n - footwear (score = 0.49)
+2673: /m/03c0bxg - limb (score = 0.24)
+2538: /m/035r7c - leg (score = 0.22)
+4042: /m/06fvc - red (score = 0.22)
+4685: /m/09j2d - clothing (score = 0.20)
+4138: /m/06rrc - shoe (score = 0.20)
+5789: /m/0k65p - hand (score = 0.18)
+4714: /m/09q2t - brown (score = 0.17)
+2584: /m/038hg - green (score = 0.16)
+
